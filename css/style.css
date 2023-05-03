@@ -133,7 +133,7 @@ body {
     color: #22343D;
 }
 
-.hero-btn button{
+.hero-btn button {
     font-weight: 700;
     font-size: 16px;
     color: #FFFFFF;
@@ -143,7 +143,7 @@ body {
     margin-right: 30px;
 }
 
-.hero-btn a{
+.hero-btn a {
     font-weight: 600;
     font-size: 16px;
     text-decoration-line: underline;
@@ -152,22 +152,22 @@ body {
     align-items: center;
 }
 
-.hero-btn a ion-icon{
+.hero-btn a ion-icon {
     font-size: 25px;
     padding-right: 8px;
 }
 
-.hero-btn{
+.hero-btn {
     display: flex;
 }
 
-#product{
+#product {
     padding: 40px 0;
     background: url("../img/Bg.png") no-repeat bottom/cover;
     height: 70vh;
 }
 
-.product h1{
+.product h1 {
     width: 539px;
     font-weight: 700;
     font-size: 32px;
@@ -177,14 +177,14 @@ body {
     margin: 0 auto;
 }
 
-.product-block h3{
+.product-block h3 {
     font-weight: 600;
     font-size: 22px;
     color: #22343D;
     padding: 30px 0 13px 0;
 }
 
-.product-block p{
+.product-block p {
     width: 240px;
     font-weight: 400;
     font-size: 16px;
@@ -192,7 +192,7 @@ body {
     color: #22343D;
 }
 
-.product button{
+.product button {
     font-weight: 700;
     font-size: 16px;
     color: #FFFFFF;
@@ -201,12 +201,12 @@ body {
     border-radius: 4px;
 }
 
-.product-btn{
+.product-btn {
     display: flex;
     justify-content: center;
 }
 
-.block-cursor{
+.block-cursor {
     width: 50px;
     height: 50px;
     background: #02897A;
@@ -216,7 +216,7 @@ body {
     align-items: center;
 }
 
-.product-general{
+.product-general {
     padding: 66px 0 60px 0;
     display: flex;
     align-items: start;
@@ -224,7 +224,7 @@ body {
 }
 
 
-.block-cursor-two{
+.block-cursor-two {
     width: 50px;
     height: 50px;
     background: #4D8DFF;
@@ -234,7 +234,7 @@ body {
     align-items: center;
 }
 
-.block-like{
+.block-like {
     width: 50px;
     height: 50px;
     background: #740A76;
@@ -244,7 +244,7 @@ body {
     align-items: center;
 }
 
-.block-time{
+.block-time {
     width: 50px;
     height: 50px;
     background: #F03E3D;
@@ -252,4 +252,42 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+#management {
+    padding: 150px 0;
+}
+
+.management-text h3 {
+    font-weight: 600;
+    font-size: 16px;
+    color: #22343D;
+}
+
+.management-text h1 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #22343D;
+}
+
+.management-text p {
+    padding: 12px 0 22px 0;
+    width: 486px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+}
+
+.management-text h5 {
+    font-weight: 600;
+    font-size: 16px;
+    color: #22343D;
+}
+
+.management {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
